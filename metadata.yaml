@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34385'
     url: http://www.gutenberg.org/2009/agents/34385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30118#Masonic-Monitor-of-the-Degrees-of-Entered-Apprentice-Fellow-Craft-and-Master-Mason--13-togeth_
 gutenberg_issued: '2009-09-28'
 gutenberg_type: Text
 identifiers:
